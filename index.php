@@ -2,6 +2,7 @@ ma 1er ligne
 une nouvelle ligne
 fix bug1
 ajouter fonctionnalité 1
+ajouter fonctionnalité 2
 
 <ul>
 	<li>Home</li>
